@@ -23,7 +23,7 @@ Change line 28
 
 You may add other filters compatible with filter or change this  to statuses/sample
 
-# Will be adding option to change searches as arguments to script
+"Will be adding option to change searches as arguments to script"
 
 ----------------------------------------------------
 
