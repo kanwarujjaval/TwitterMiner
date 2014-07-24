@@ -15,10 +15,10 @@ process.on('uncaughtException', function(err) {
 });
 
 var twit = new twitter({
-  consumer_key: '6a0SyEIYoIShBqKE7IwUrd8JN',
-  consumer_secret: 'R30kr6kXUw7pBCWJChiIXFtTqD15BYeYdlMgiRPiHKgbZcXvZO',
-  access_token_key: '980420581-sQcLtAXR1ZaNkbrazvahetaIAD24PPLEt6mnBgkp',
-  access_token_secret: '8jp5bpeDCXlk506wHxoQMIx0TvJ2EzNowu42CaIWdilmb'
+  consumer_key: '',
+  consumer_secret: '',
+  access_token_key: '',
+  access_token_secret: ''
 });
 
 twit
